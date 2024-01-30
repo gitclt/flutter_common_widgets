@@ -1,37 +1,16 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# git_common_widgets
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A Flutter package that simplifies the process of adding customizable text fields and buttons to your Flutter app.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- **Custom Text Fields:** Easily integrate stylish and customizable text input fields into your application.
+- **Custom Buttons:** Create appealing buttons with various styles and configurations.
 
-## Getting started
+## Getting Started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To use this package, add `git_common_widgets` to your `pubspec.yaml`:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: A Flutter package that provides customizable text fields and buttons. Simplify the process of adding stylish text input and buttons to your Flutter app.
+```yaml
+dependencies:
+  git_common_widgets: ^1.0.0
