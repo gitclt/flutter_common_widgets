@@ -1,7 +1,7 @@
 name: git_common_widgets
 description: "A new Flutter package project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/gitclt/flutter_common_widgets
 
 
 environment:
