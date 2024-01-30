@@ -34,6 +34,4 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+TODO: A Flutter package that provides customizable text fields and buttons. Simplify the process of adding stylish text input and buttons to your Flutter app.
