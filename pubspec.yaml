@@ -1,5 +1,6 @@
 name: git_common_widgets
-description: "A new Flutter package project."
+description: "A Flutter package that provides customizable text fields and buttons.
+  Simplify the process of adding stylish text input and buttons to your Flutter app."
 version: 1.0.0
 homepage: https://github.com/gitclt/flutter_common_widgets
 
